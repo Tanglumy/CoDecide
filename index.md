@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: CoDecide
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: CoDecide是一支来自于国内各大高校的留学团队，我们的成员均在2022申请季有着丰富的申请经验，并旨在处于申请中或者有志于出国留学的同学提供咨询/文书服务。
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# CoDecide
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+CoDecide是一支来自于国内各大高校的留学团队，我们的成员均在2022申请季有着丰富的申请经验，并旨在处于申请中或者有志于出国留学的同学提供咨询/文书服务。

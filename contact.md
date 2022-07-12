@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+我们在如下时间段将为阁下积极提供提供邮件回应
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
